@@ -1,7 +1,7 @@
 # Github Explorer
 <h3>Projeto desenvolvido em ReactJS usando API do Github para procurar usuários e exibir dados público do seu perfil e repositórios 🚀</h3>
 
-<h4>Link do projeto: </h4>
+<h4>Link do projeto: https://githubexplorer-viniciusiess.web.app</h4>
 
 ![Captura de tela 2022-09-28 134214](https://user-images.githubusercontent.com/57002843/192842722-69846ba5-f765-4e7f-af80-83947b57afce.png)
 
