@@ -1,5 +1,5 @@
 # Github Explorer
-<h2>Projeto desenvolvido em ReactJS usando API do Github para procurar usuários e exibir dados público do seu perfil e repositórios 🚀</h2>
+<h3>Projeto desenvolvido em ReactJS usando API do Github para procurar usuários e exibir dados público do seu perfil e repositórios 🚀</h3>
 
 <h4>Link do projeto: </h4>
 
